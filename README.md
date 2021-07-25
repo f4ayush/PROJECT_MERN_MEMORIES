@@ -1,9 +1,8 @@
 # Memories
-
-
+This is project is hosted at [Image Sharing app](https://project-mern-memories.vercel.app/)
 ## Introduction
-
-Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
+This is an image sharing app built on MERN stack.
+Users are provided with the facility of like the posts of other user also.
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the app
