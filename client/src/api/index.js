@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API = axios.create({ baseURL: 'https://memories-ayush.herokuapp.com' });
+const API = axios.create({ baseURL: 'https://project-mern-memories-reur.vercel.app/' });
 
 API.interceptors.request.use((req) => {
   if (localStorage.getItem('profile')) {
